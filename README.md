@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Alberto 👋
 
-- 🌱 Estudando HTML, CSS, JAVASCRIPT e REACT
+- 🌱 Estudando HTML, CSS, JAVASCRIPT e REACT, FIGMA
 - 📫 Contate-me no email: joaoalberto15sv@gmail.com
 - 😄 Pronouns: ele/dele
 
