@@ -2,7 +2,6 @@
 
 - 🌱 Estudando HTML, CSS, JAVASCRIPT e REACT, FIGMA
 - 📫 Contate-me no email: joaoalberto15sv@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="left">
   <a href="https://github.com/JoaoAlberto20">
