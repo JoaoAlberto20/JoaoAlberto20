@@ -3,7 +3,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Desenvolvimento Web Full Stack** no <a href="https://www.betrybe.com/" target="_blank" >Trybe</a>.
+- 🎓 &nbsp; Estudando **Desenvolvimento Web Full Stack** na <a href="https://www.betrybe.com/" target="_blank" >Trybe</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **React Native**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
