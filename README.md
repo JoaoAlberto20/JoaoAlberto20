@@ -49,9 +49,11 @@
       <p>
         <em>
           <strong>
-          :wrench: Tools/Methodologies:
+          :wrench: Ferramentas e Metodologias:
           </strong> 
-          React (functional components), HTML, CSS, CSS-MODULE JavaScript, Typescript, Phosphor-icons e UUIDV4
+          <p> 
+            React (functional components), HTML, CSS, CSS-MODULE JavaScript e Phosphor-icons 
+          </p>
         </em>
       </p>
       <p>:brazil: Aplicação para cadastro de tarefas</p>
@@ -74,9 +76,11 @@
       <p>
         <em>
           <strong>
-          :wrench: Tools/Methodologies:
+          :wrench: Ferramentas e Metodologias:
           </strong> 
-          React (functional components), HTML, CSS, CSS-MODULE JavaScript e Phosphor-icons 
+          <p> 
+            React (functional components), HTML, CSS, CSS-MODULE JavaScript e Phosphor-icons 
+          </p>
         </em>
       </p>
       <p>:brazil: Meu Portfolio</p>
