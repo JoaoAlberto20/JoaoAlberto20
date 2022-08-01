@@ -1,37 +1,63 @@
-### Olá! Eu sou o João Alberto 👋
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-- 🌱 Estudando HTML, CSS, JAVASCRIPT e REACT, FIGMA
-- 📫 Contate-me no email: joaoalbertosv15@gmail.com
+<h3> :woman: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Desenvolvimento Web Full Stack** no <a href="https://www.betrybe.com/" target="_blank" >Trybe</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **React Native**.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
 
 <div align="left">
   <a href="https://github.com/JoaoAlberto20">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlberto20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlberto20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-    
-<div style="display: flex"><br>
-  <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="João-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- ##
-  
-<div>
-<a href = "joaoalbertosv15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-alberto-no-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 <br />
 
+[![Linkedin: João Alberto No da Silva](https://img.shields.io/badge/-JoãoAlberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-alberto-no-da-silva)](https://www.linkedin.com/in/joão-alberto-no-da-silva)
+[![Gmail Badge](https://img.shields.io/badge/-joaoalbertosv15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoalbertosv15@gmail.com)](mailto:joaoalbertosv15@gmail.com)
+[![GitHub JoaoAlberto20]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/JoaoAlberto20)
 
 <h1 align="center">Meus Projetos</h1>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<table width="100%">
+  <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
+    <td valign="top">
       <h2 align="center">
         <a 
           href="https://github.com/JoaoAlberto20/todoList" 
@@ -58,7 +84,7 @@
       </p>
       <p>:brazil: Aplicação para cadastro de tarefas</p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top">
       <h2 align="center">
         <a 
           href="https://github.com/JoaoAlberto20/Portfolio" 
