@@ -32,8 +32,18 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://https://github.com/JoaoAlberto20/todoList">Todo List</a></h2>
-      <a href="https://todo-list-prv6j0wte-joaoalberto20.vercel.app/"><img width="100%" src="./assets/TodoList.png" alt="Project-preview" /></a>
+      <h2 align="center">
+        <a 
+          href="https://https://github.com/JoaoAlberto20/todoList" 
+          target="_blank">
+          Todo List
+        </a>
+      </h2>
+      <a 
+        href="https://todo-list-prv6j0wte-joaoalberto20.vercel.app/" 
+        target="_blank"><img width="100%" 
+        src="./assets/TodoList.png" 
+        alt="Project-preview" /></a>
       <br>
       <br>
       <p>
@@ -45,6 +55,31 @@
         </em>
       </p>
       <p>:brazil: Aplicação para cadastro de tarefas</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center">
+        <a 
+          href="https://github.com/JoaoAlberto20/Portfolio" 
+          target="_blank">
+          Meu portfolio
+        </a>
+      </h2>
+      <a 
+        href="portfolio-joaoalberto20.vercel.app/" 
+        target="_blank"><img width="100%" 
+        src="./assets/Portfolio.png" 
+        alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p>
+        <em>
+          <strong>
+          :wrench: Tools/Methodologies:
+          </strong> 
+          React (functional components), HTML, CSS, CSS-MODULE JavaScript e Phosphor-icons 
+        </em>
+      </p>
+      <p>:brazil: Meu Portfolio</p>
     </td>
   </tr>
 </table>
