@@ -34,7 +34,7 @@
     <td valign="top" width="50%">
       <h2 align="center">
         <a 
-          href="https://https://github.com/JoaoAlberto20/todoList" 
+          href="https://github.com/JoaoAlberto20/todoList" 
           target="_blank">
           Todo List
         </a>
