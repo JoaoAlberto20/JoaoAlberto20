@@ -65,7 +65,7 @@
         </a>
       </h2>
       <a 
-        href="portfolio-joaoalberto20.vercel.app/" 
+        href="https://portfolio-joaoalberto20.vercel.app/" 
         target="_blank"><img width="100%" 
         src="./assets/Portfolio.png" 
         alt="Project-preview" /></a>
