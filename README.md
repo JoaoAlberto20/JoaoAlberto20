@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=JoaoAlberto20&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
@@ -51,7 +51,7 @@
 
 [![Linkedin: João Alberto No da Silva](https://img.shields.io/badge/-JoãoAlberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-alberto-no-da-silva)](https://www.linkedin.com/in/joão-alberto-no-da-silva)
 [![Gmail Badge](https://img.shields.io/badge/-joaoalbertosv15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoalbertosv15@gmail.com)](mailto:joaoalbertosv15@gmail.com)
-[![GitHub JoaoAlberto20]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/JoaoAlberto20)
+[![GitHub JoaoAlberto20]( https://img.shields.io/github/followers/JoaoAlberto20?label=follow&style=social)](https://github.com/JoaoAlberto20)
 
 <h1 align="center">Meus Projetos</h1>
 
