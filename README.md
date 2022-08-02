@@ -4,6 +4,13 @@
 - 🎓 &nbsp; Estudando **Desenvolvimento Web Full Stack** na <a href="https://www.betrybe.com/" target="_blank" >Trybe</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **React Native**.
 
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: João Alberto No da Silva](https://img.shields.io/badge/-JoãoAlberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-alberto-no-da-silva)](https://www.linkedin.com/in/joão-alberto-no-da-silva)
+[![Gmail Badge](https://img.shields.io/badge/-joaoalbertosv15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoalbertosv15@gmail.com)](mailto:joaoalbertosv15@gmail.com)
+[![GitHub JoaoAlberto20]( https://img.shields.io/github/followers/JoaoAlberto20?label=follow&style=social)](https://github.com/JoaoAlberto20)
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
@@ -32,16 +39,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-<br />
-
-[![Linkedin: João Alberto No da Silva](https://img.shields.io/badge/-JoãoAlberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-alberto-no-da-silva)](https://www.linkedin.com/in/joão-alberto-no-da-silva)
-[![Gmail Badge](https://img.shields.io/badge/-joaoalbertosv15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoalbertosv15@gmail.com)](mailto:joaoalbertosv15@gmail.com)
-[![GitHub JoaoAlberto20]( https://img.shields.io/github/followers/JoaoAlberto20?label=follow&style=social)](https://github.com/JoaoAlberto20)
 
 <h1 align="center">Meus Projetos</h1>
 
@@ -72,7 +69,7 @@
           </p>
         </em>
       </p>
-      <p>:brazil: Aplicação para cadastro de tarefas</p>
+      <p>Aplicação para cadastro de tarefas</p>
     </td>
     <td valign="top">
       <h2 align="center">
@@ -99,7 +96,7 @@
           </p>
         </em>
       </p>
-      <p>:brazil: Meu Portfolio</p>
+      <p>Meu Portfolio</p>
     </td>
   </tr>
 </table>
