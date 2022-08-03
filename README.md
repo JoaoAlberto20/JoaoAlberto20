@@ -101,7 +101,7 @@
   </tr>
   <tr>
     <td valign="top">
-      <h2 align="start">
+      <h2 align="center">
         <a 
           href="https://github.com/JoaoAlberto20/Timer-Pomodoro" 
           target="_blank">
@@ -110,7 +110,7 @@
       </h2>
       <a 
         href="https://timer-pomodoro-kappa.vercel.app/" 
-        target="_blank"><img width="50%" 
+        target="_blank"><img width="100%" 
         src="./assets/timerPomodoro.png" 
         alt="Project-preview" /></a>
       <br>
