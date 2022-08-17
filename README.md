@@ -42,7 +42,67 @@
 
 <h1 align="center">Meus Projetos</h1>
 
-<table width="100%">
+<table width="100%" >
+    <tr  style="display: grid; grid-template-columns: 1fr 1fr;" >
+     <td valign="top">
+      <h2 align="center">
+        <a 
+          href="https://github.com/JoaoAlberto20/coffeeDelivery" 
+          target="_blank">
+          Coffee Delivery
+        </a>
+      </h2>
+      <a 
+        href="https://timer-pomodoro-kappa.vercel.app/" 
+        target="_blank"><img width="100%" 
+        src="./assets/CoffeeDelivery.png" 
+        alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p>
+        <em>
+          <strong>
+          :wrench: Ferramentas e Metodologias:
+          </strong> 
+          <p> 
+            React (functional components), HTML, CSS, JavaScript,
+            Phosphor-icons, Styled Components, React Hook Form, Zod,
+            Eslint, Context Api, Reducer 
+          </p>
+        </em>
+      </p>
+      <p>Timer: Uma aplicação para gerenciar  um carrinho de compras</p>
+    </td>
+    <td valign="top">
+      <h2 align="center">
+        <a 
+          href="https://github.com/JoaoAlberto20/Timer-Pomodoro" 
+          target="_blank">
+          Timer Pomodoro
+        </a>
+      </h2>
+      <a 
+        href="https://timer-pomodoro-kappa.vercel.app/" 
+        target="_blank"><img width="100%" 
+        src="./assets/timerPomodoro.png" 
+        alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p>
+        <em>
+          <strong>
+          :wrench: Ferramentas e Metodologias:
+          </strong> 
+          <p> 
+            React (functional components), HTML, CSS, JavaScript,
+            Phosphor-icons, Styled Components, React Hook Form, Date Fns,
+            Eslint, Context Api, 
+          </p>
+        </em>
+      </p>
+      <p>Timer: gerenciamento de tempo</p>
+    </td>
+  </tr>
   <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
     <td valign="top">
       <h2 align="center">
@@ -97,37 +157,6 @@
         </em>
       </p>
       <p>Meu Portfolio</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h2 align="center">
-        <a 
-          href="https://github.com/JoaoAlberto20/Timer-Pomodoro" 
-          target="_blank">
-          Timer Pomodoro
-        </a>
-      </h2>
-      <a 
-        href="https://timer-pomodoro-kappa.vercel.app/" 
-        target="_blank"><img width="100%" 
-        src="./assets/timerPomodoro.png" 
-        alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p>
-        <em>
-          <strong>
-          :wrench: Ferramentas e Metodologias:
-          </strong> 
-          <p> 
-            React (functional components), HTML, CSS, JavaScript,
-            Phosphor-icons, Styled Components, React Hook Form, Date Fns,
-            Eslint, Context Api, 
-          </p>
-        </em>
-      </p>
-      <p>Timer: gerenciamento de tempo</p>
     </td>
   </tr>
 </table>
