@@ -44,6 +44,33 @@
 
 <table width="100%" >
     <tr  style="display: grid; grid-template-columns: 1fr 1fr;" >
+      <td valign="top">
+        <h2 align="center">
+          <a 
+            href="https://github.com/JoaoAlberto20/my-portfolio" 
+            target="_blank">
+            Meu portfolio
+          </a>
+        </h2>
+        <a 
+          href="https://joaoalbertosv-dev.vercel.app/" 
+          target="_blank"><img width="100%" 
+          src="./assets/Portfolio.png" 
+          alt="Project-preview" /></a>
+        <br>
+        <br>
+        <p>
+          <em>
+            <strong>
+            :wrench: Ferramentas e Metodologias:
+            </strong> 
+            <p> 
+              React (functional components), HTML, CSS, JavaScript e React Icons, Typescript, Styled Components, Emailjs, 
+            </p>
+          </em>
+        </p>
+        <p></p>
+      </td>
      <td valign="top">
       <h2 align="center">
         <a 
@@ -73,6 +100,8 @@
       </p>
       <p>Timer: Uma aplicação para gerenciar  um carrinho de compras</p>
     </td>
+  </tr>
+  <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
     <td valign="top">
       <h2 align="center">
         <a 
@@ -102,8 +131,6 @@
       </p>
       <p>Timer: gerenciamento de tempo</p>
     </td>
-  </tr>
-  <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
     <td valign="top">
       <h2 align="center">
         <a 
@@ -130,33 +157,6 @@
         </em>
       </p>
       <p>Aplicação para cadastro de tarefas</p>
-    </td>
-    <td valign="top">
-      <h2 align="center">
-        <a 
-          href="https://github.com/JoaoAlberto20/Portfolio" 
-          target="_blank">
-          Meu portfolio
-        </a>
-      </h2>
-      <a 
-        href="https://portfolio-joaoalberto20.vercel.app/" 
-        target="_blank"><img width="100%" 
-        src="./assets/Portfolio.png" 
-        alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p>
-        <em>
-          <strong>
-          :wrench: Ferramentas e Metodologias:
-          </strong> 
-          <p> 
-            React (functional components), HTML, CSS, CSS-MODULE JavaScript e Phosphor-icons 
-          </p>
-        </em>
-      </p>
-      <p>Meu Portfolio</p>
     </td>
   </tr>
 </table>
