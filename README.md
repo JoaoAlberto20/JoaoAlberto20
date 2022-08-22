@@ -69,7 +69,7 @@
             </p>
           </em>
         </p>
-        <p></p>
+        <p>Portfolio: Aplicação de um portfolio pessoal</p>
       </td>
      <td valign="top">
       <h2 align="center">
