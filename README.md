@@ -7,7 +7,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: João Alberto No da Silva](https://img.shields.io/badge/-JoãoAlberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joaoalbertosvcode)](www.linkedin.com/in/joaoalbertosvcode)
+[![Linkedin: João Alberto No da Silva](https://img.shields.io/badge/-JoaoAlberto20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoalbertosvcode)](https://www.linkedin.com/in/joaoalbertosvcode)
 [![Gmail Badge](https://img.shields.io/badge/-joaoalbertosv15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoalbertosv15@gmail.com)](mailto:joaoalbertosv15@gmail.com)
 [![GitHub JoaoAlberto20]( https://img.shields.io/github/followers/JoaoAlberto20?label=follow&style=social)](https://github.com/JoaoAlberto20)
 
