@@ -55,7 +55,7 @@
         <a 
           href="https://github-blog-chi.vercel.app" 
           target="_blank"><img width="100%" 
-          src="./GitHub-Blog.png" 
+          src="./assets/GitHub-Blog.png" 
           alt="Project-preview" /></a>
         <br>
         <br>
@@ -72,7 +72,35 @@
         </p>
         <p>Portfolio: Aplicação de um Blog pessoal</p>
       </td>
-      <td></td>
+      <td valign="top">
+        <h2 align="center">
+          <a 
+            href="https://github.com/JoaoAlberto20/Timer-Pomodoro" 
+            target="_blank">
+            Timer Pomodoro
+          </a>
+        </h2>
+        <a 
+          href="https://timer-pomodoro-kappa.vercel.app/" 
+          target="_blank"><img width="100%" 
+          src="./assets/timerPomodoro.png" 
+          alt="Project-preview" /></a>
+        <br>
+        <br>
+        <p>
+          <em>
+            <strong>
+            :wrench: Ferramentas e Metodologias:
+            </strong> 
+            <p> 
+              React (functional components), HTML, CSS, JavaScript,
+              Phosphor-icons, Styled Components, React Hook Form, Date Fns,
+              Eslint, Context Api, 
+            </p>
+          </em>
+        </p>
+        <p>Timer: gerenciamento de tempo</p>
+      </td>
     </tr>
     <tr  style="display: grid; grid-template-columns: 1fr 1fr;" >
       <td valign="top">
@@ -133,35 +161,6 @@
     </td>
   </tr>
   <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
-    <td valign="top">
-      <h2 align="center">
-        <a 
-          href="https://github.com/JoaoAlberto20/Timer-Pomodoro" 
-          target="_blank">
-          Timer Pomodoro
-        </a>
-      </h2>
-      <a 
-        href="https://timer-pomodoro-kappa.vercel.app/" 
-        target="_blank"><img width="100%" 
-        src="./assets/timerPomodoro.png" 
-        alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p>
-        <em>
-          <strong>
-          :wrench: Ferramentas e Metodologias:
-          </strong> 
-          <p> 
-            React (functional components), HTML, CSS, JavaScript,
-            Phosphor-icons, Styled Components, React Hook Form, Date Fns,
-            Eslint, Context Api, 
-          </p>
-        </em>
-      </p>
-      <p>Timer: gerenciamento de tempo</p>
-    </td>
     <td valign="top">
       <h2 align="center">
         <a 
