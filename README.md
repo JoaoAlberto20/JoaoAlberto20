@@ -139,7 +139,7 @@
         </a>
       </h2>
       <a 
-        href="https://timer-pomodoro-kappa.vercel.app/" 
+        href="https://coffee-delivery-gts11qg4o-joaoalberto20.vercel.app/" 
         target="_blank"><img width="100%" 
         src="./assets/CoffeeDelivery.png" 
         alt="Project-preview" /></a>
