@@ -55,7 +55,7 @@
         <a 
           href="https://github-blog-chi.vercel.app" 
           target="_blank"><img width="100%" 
-          src="./assets/GitHub-Blog.png" 
+          src="./GitHub-Blog.png" 
           alt="Project-preview" /></a>
         <br>
         <br>
