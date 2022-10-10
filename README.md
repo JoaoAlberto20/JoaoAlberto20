@@ -43,7 +43,7 @@
 <h1 align="center">Meus Projetos</h1>
 
 <table width="100%" >
-    <tr>
+    <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
      <td valign="top">
         <h2 align="center">
           <a 
