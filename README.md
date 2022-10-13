@@ -44,7 +44,35 @@
 
 <table width="100%" >
     <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
-     <td valign="top">
+      <td valign="top">
+        <h2 align="center">
+          <a 
+            href="https://github.com/JoaoAlberto20/github-blog" 
+            target="_blank">
+            Design System
+          </a>
+        </h2>
+        <a 
+          href="https://github-blog-chi.vercel.app" 
+          target="_blank"><img width="100%" 
+          src="./assets/DesignSystem.png" 
+          alt="Project-preview" /></a>
+        <br>
+        <br>
+        <p>
+          <em>
+            <strong>
+            :wrench: Ferramentas e Metodologias:
+            </strong> 
+            <p> 
+              Stitches, RadixUI, Storybook, TypeScript, React, ViteJs, TurboRepo,
+              TurboRepo
+            </p>
+          </em>
+        </p>
+        <p>Portfolio: Aplicação de um Design System</p>
+      </td>
+      <td valign="top">
         <h2 align="center">
           <a 
             href="https://github.com/JoaoAlberto20/ignite-shop" 
@@ -72,6 +100,8 @@
         </p>
         <p>Ignite Shop: Aplicação de uma loja de roupa virtual</p>
       </td>
+    </tr>
+    <tr  style="display: grid; grid-template-columns: 1fr 1fr;" >
       <td valign="top">
         <h2 align="center">
           <a 
@@ -100,8 +130,6 @@
         </p>
         <p>Portfolio: Aplicação de um Blog pessoal</p>
       </td>
-    </tr>
-    <tr  style="display: grid; grid-template-columns: 1fr 1fr;" >
       <td valign="top">
         <h2 align="center">
           <a 
@@ -129,7 +157,9 @@
         </p>
         <p>Portfolio: Aplicação de um portfolio pessoal</p>
       </td>
-     <td valign="top">
+  </tr>
+  <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
+    <td valign="top">
       <h2 align="center">
         <a 
           href="https://github.com/JoaoAlberto20/coffeeDelivery" 
@@ -158,8 +188,6 @@
       </p>
       <p>Timer: Uma aplicação para gerenciar  um carrinho de compras</p>
     </td>
-  </tr>
-  <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
     <td valign="top">
       <h2 align="center">
         <a 
@@ -189,6 +217,8 @@
       </p>
       <p>Timer: gerenciamento de tempo</p>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h2 align="center">
         <a 
