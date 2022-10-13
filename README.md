@@ -47,13 +47,13 @@
       <td valign="top">
         <h2 align="center">
           <a 
-            href="https://github.com/JoaoAlberto20/github-blog" 
+            href="https://github.com/JoaoAlberto20/design-system" 
             target="_blank">
             Design System
           </a>
         </h2>
         <a 
-          href="https://github-blog-chi.vercel.app" 
+          href="https://joaoalberto20.github.io/design-system" 
           target="_blank"><img width="100%" 
           src="./assets/DesignSystem.png" 
           alt="Project-preview" /></a>
