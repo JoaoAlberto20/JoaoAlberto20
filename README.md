@@ -11,8 +11,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaoalbertosv15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoalbertosv15@gmail.com)](mailto:joaoalbertosv15@gmail.com)
 [![GitHub JoaoAlberto20]( https://img.shields.io/github/followers/JoaoAlberto20?label=follow&style=social)](https://github.com/JoaoAlberto20)
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
 <h2> Core </h2>
 <section>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -54,6 +52,8 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="css3" />
 </section>
+
+<br>
 
 <h1 align="center">Meus Projetos</h1>
 
