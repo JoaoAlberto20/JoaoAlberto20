@@ -58,8 +58,39 @@
 <h1 align="center">Meus Projetos</h1>
 
 <table width="100%" >
+    <tr>
+      <td align="top">
+        <h2 align="center">
+          <a 
+            href="https://github.com/JoaoAlberto20/trybe-futebol-fc" 
+            target="_blank">
+            Trybe Futebol Clube trophy 🏆
+          </a>
+        </h2>
+        <a 
+          href="https://github.com/JoaoAlberto20/trybe-futebol-fc" 
+          target="_blank"><img width="100%" 
+          src="./assets/tfc_classificacao.png" 
+          alt="Project-preview" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <em>
+            <strong>
+            :wrench: Ferramentas e Metodologias:
+            </strong> 
+            <p> 
+              Node.js, Express, Typescript, MySQL, Sequelize e Docker
+              OLID e Programação Orientada a Objetos Mocha, Chai, ChaiHTTP e Sinon
+            </p>
+          </em>
+        </p>
+        <p>Trybe Futebol Clube: Uma Projeto de uma tabela do Brasileirão </p>
+      </td>
+    </tr>
     <tr style="display: grid; grid-template-columns: 1fr 1fr;" >
-      <td valign="top">
+      <td align="top">
         <h2 align="center">
           <a 
             href="https://github.com/JoaoAlberto20/design-system" 
@@ -71,7 +102,8 @@
           href="https://joaoalberto20.github.io/design-system" 
           target="_blank"><img width="100%" 
           src="./assets/DesignSystem.png" 
-          alt="Project-preview" /></a>
+          alt="Project-preview" />
+        </a>
         <br>
         <br>
         <p>
