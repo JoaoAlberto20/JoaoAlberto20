@@ -7,38 +7,53 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: João Alberto No da Silva](https://img.shields.io/badge/-JoãoAlberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-alberto-no-da-silva)](https://www.linkedin.com/in/joão-alberto-no-da-silva)
+[![Linkedin: João Alberto No da Silva](https://img.shields.io/badge/-JoãoAlberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoalbertosvcode)](https://www.linkedin.com/in/joaoalbertosvcode)
 [![Gmail Badge](https://img.shields.io/badge/-joaoalbertosv15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoalbertosv15@gmail.com)](mailto:joaoalbertosv15@gmail.com)
 [![GitHub JoaoAlberto20]( https://img.shields.io/github/followers/JoaoAlberto20?label=follow&style=social)](https://github.com/JoaoAlberto20)
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+<h2> Core </h2>
+<section>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</section>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<h2> Front End </h2>
+<section>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</section>
 
-**Utilidades**
+<h2> Back End </h2>
+<section>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
+</section>
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<h2> Testing </h2>
+<section>
+  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
+  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+</section>
 
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<h2> Tools </h2>
+<section>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="css3" />
+</section>
 
 <h1 align="center">Meus Projetos</h1>
 
