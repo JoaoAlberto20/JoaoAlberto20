@@ -83,11 +83,11 @@ Se você está se perguntando se deve me chamar para uma conversa, não pense du
             </strong> 
             <p> 
               Node.js, Express, Typescript, MySQL, Sequelize e Docker
-              OLID e Programação Orientada a Objetos Mocha, Chai, ChaiHTTP e Sinon
+              OLID e Programação Orientada a Objetos Mocha, Chai
             </p>
           </em>
         </p>
-        <p>Trybe Futebol Clube: Uma Projeto de uma tabela do Brasileirão </p>
+        <p>Uma Projeto de uma tabela do Brasileirão</p>
       </td>
       <td align="top">
         <h2 align="center">
@@ -116,7 +116,7 @@ Se você está se perguntando se deve me chamar para uma conversa, não pense du
             </p>
           </em>
         </p>
-        <p>Portfolio: Aplicação de um Design System</p>
+        <p>Aplicação de um Design System</p>
       </td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ Se você está se perguntando se deve me chamar para uma conversa, não pense du
             </p>
           </em>
         </p>
-        <p>Ignite Shop: Aplicação de uma loja de roupa virtual</p>
+        <p>Aplicação de uma loja de roupa virtual</p>
     </td>
     <td valign="top">
       <h2 align="center">
@@ -175,7 +175,7 @@ Se você está se perguntando se deve me chamar para uma conversa, não pense du
           </p>
         </em>
       </p>
-      <p>Timer: gerenciamento de tempo</p>
+      <p>Gerenciamento de tempo</p>
     </td>
   </tr>
   <tr>
