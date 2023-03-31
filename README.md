@@ -206,6 +206,62 @@ Se você está se perguntando se deve me chamar para uma conversa, não pense du
       </p>
       <p>Aplicação para cadastro de tarefas</p>
     </td>
+    <td valign="top">
+      <h2 align="center">
+        <a 
+          href="https://github.com/JoaoAlberto20/project-Ecommerce" 
+          target="_blank">
+          Landing Page Ecommerce
+        </a>
+      </h2>
+      <a 
+        href="https://project-ecommerce-kappa.vercel.app/" 
+        target="_blank"><img width="100%" 
+        src="./assets/landingPageEcommerce.png" 
+        alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p>
+        <em>
+          <strong>
+          :wrench: Ferramentas e Metodologias:
+          </strong> 
+          <p> 
+            React (functional components), HTML, CSS, SASS 
+          </p>
+        </em>
+      </p>
+      <p>Landing Page de um Ecommerce</p>
+    </td>
+    <tr>
+      <td valign="top">
+        <h2 align="center">
+          <a 
+            href="https://github.com/JoaoAlberto20/LandingPage-Agency" 
+            target="_blank">
+            Landing Page Agency
+          </a>
+        </h2>
+        <a 
+          href="https://project-ecommerce-4bua.vercel.app/" 
+          target="_blank"><img width="100%" 
+          src="./assets/landingPageAgency.png" 
+          alt="Project-preview" /></a>
+        <br>
+        <br>
+        <p>
+          <em>
+            <strong>
+            :wrench: Ferramentas e Metodologias:
+            </strong> 
+            <p> 
+              React (functional components), HTML, CSS, SASS 
+            </p>
+          </em>
+        </p>
+        <p>Landing Page de um Agency</p>
+      </td>
+    </tr>
   </tr>
 </table>
 
